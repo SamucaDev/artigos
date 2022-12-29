@@ -30,7 +30,7 @@ Em 2009 Luke Wroblewski publicou um artigo chamado [Mobile First](http://www.luk
 
 ### Utilizando Javascript
 
-- Podemos utilizar javacript para incluir verificações de mostrar ou não um componente na versão mobile, ou até mesmo controlar versões de componente, um pensado exclusivamente para mobile e outro para desktop.
+- Podemos utilizar javascript para incluir verificações de mostrar ou não um componente na versão mobile, ou até mesmo controlar versões de componente, um pensado exclusivamente para mobile e outro para desktop.
 
 ## O que ganhamos aplicando isso?
 
