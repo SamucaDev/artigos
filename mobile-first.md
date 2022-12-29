@@ -2,7 +2,7 @@
 
 # Para entender o que é Mobile First? Basta traduzir?
 
-Por algum motivo o tema Mobile First esta sendo mencionado em diversos lugares que eu estou presente, principalmente em entrevistas, e minha respostas sempre foi a mesma - "Mobile First é começar programando para celular HEHE..." esta resposta não esta incorreta porém esta incompleta. Então resolvi estudar sobre o que é Mobile First de fato, e descobri que trata-se de uma filosofia de desenvolvimento, geralmente desenvolvemos um site em sua versão principal para desktop e adaptamos para celular, seguindo a filosofia Mobile First nós desenvolvemos pensando no usuários de mobile, tendo em mente que um celular geralmente tem menos recursos de processamento e rede comparado a um computador. Além da experiencia do usuário final, Mobile Fist traz diversos benefícios para o site, é isso que iremos conversar nesta publicação.
+Por algum motivo o tema Mobile First esta sendo mencionado em diversos lugares que eu estou presente, principalmente em entrevistas, e minha respostas sempre foi a mesma - "Mobile First é começar programando para celular HEHE..." esta resposta não esta incorreta porém esta incompleta. Então resolvi estudar sobre o que é Mobile First de fato, e descobri que trata-se de uma filosofia de desenvolvimento, geralmente desenvolvemos um site em sua versão principal para desktop e adaptamos para celular, seguindo a filosofia Mobile First nós desenvolvemos pensando no usuários de mobile, tendo em mente que um celular geralmente tem menos recursos de processamento e rede comparado a um computador. Além da experiencia do usuário final, Mobile First traz diversos benefícios para o site, é isso que iremos conversar nesta publicação.
 
 ## Um pouco de teoria
 
